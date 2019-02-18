@@ -3,10 +3,10 @@ Unicode
 Python 3.7
 
 Dependencies:
-    * bs4
-    * requests
-    * ast    
-    * unicodedata
+* bs4
+* requests
+* ast    
+* unicodedata
 
 Creates filtered file 'characters.txt' containing list of 
 printable characters from Unicode's BMP (ver 11.0) range.
