@@ -2,11 +2,14 @@ Unicode
 -----------------
 Python 3.7
 
-Dependencies:
-* bs4
-* requests
+Packages:
+* bs4 (4.6.0)
+* requests (2.19.1)
+
+Standard Library:
 * ast    
 * unicodedata
+* random
 
 Creates filtered file 'characters.txt' containing list of 
 printable characters from Unicode's BMP (ver 11.0) range.
